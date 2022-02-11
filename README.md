@@ -1,6 +1,8 @@
 # Analysis-on-Walmart-Dataset-in-SQL
 
 By Atif Salam
+
+
 Part I : Objectives
 Food is part and parcel of life and people look for meals, food products, food businesses and
 restaurants over internet all the time. Competitors also seek information about each other in
